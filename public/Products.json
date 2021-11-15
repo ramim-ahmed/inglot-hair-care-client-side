@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "category": "shampoo",
+    "img": "https://i.ibb.co/WDGn743/tresemme.jpg",
+    "title": "Tresemme Salon Silk Shampoo - 900ml",
+    "description": "Shampoo is a hair care product, typically in the form of a viscous liquid, that is used for cleaning hair.",
+    "price": 13,
+    "stock": 10,
+    "rating": 5,
+    "made": "UK"
+  },
+  {
+    "id": 2,
+    "category": "shampoo",
+    "img": "https://i.ibb.co/WDGn743/tresemme.jpg",
+    "title": "Tresemme Salon Silk Shampoo - 900ml",
+    "description": "Shampoo is a hair care product, typically in the form of a viscous liquid, that is used for cleaning hair.",
+    "price": 13,
+    "stock": 10,
+    "rating": 5,
+    "made": "UK"
+  },
+  {
+    "id": 3,
+    "category": "shampoo",
+    "img": "https://i.ibb.co/WDGn743/tresemme.jpg",
+    "title": "Tresemme Salon Silk Shampoo - 900ml",
+    "description": "Shampoo is a hair care product, typically in the form of a viscous liquid, that is used for cleaning hair.",
+    "price": 13,
+    "stock": 10,
+    "rating": 5,
+    "made": "UK"
+  },
+  {
+    "id": 4,
+    "category": "shampoo",
+    "img": "https://i.ibb.co/WDGn743/tresemme.jpg",
+    "title": "Tresemme Salon Silk Shampoo - 900ml",
+    "description": "Shampoo is a hair care product, typically in the form of a viscous liquid, that is used for cleaning hair.",
+    "price": 13,
+    "stock": 10,
+    "rating": 5,
+    "made": "UK"
+  },
+  {
+    "id": 5,
+    "category": "shampoo",
+    "img": "https://i.ibb.co/WDGn743/tresemme.jpg",
+    "title": "Tresemme Salon Silk Shampoo - 900ml",
+    "description": "Shampoo is a hair care product, typically in the form of a viscous liquid, that is used for cleaning hair.",
+    "price": 13,
+    "stock": 10,
+    "rating": 5,
+    "made": "UK"
+  },
+  {
+    "id": 6,
+    "category": "shampoo",
+    "img": "https://i.ibb.co/WDGn743/tresemme.jpg",
+    "title": "Tresemme Salon Silk Shampoo - 900ml",
+    "description": "Shampoo is a hair care product, typically in the form of a viscous liquid, that is used for cleaning hair.",
+    "price": 13,
+    "stock": 10,
+    "rating": 5,
+    "made": "UK"
+  },
+  {
+    "id": 7,
+    "category": "shampoo",
+    "img": "https://i.ibb.co/WDGn743/tresemme.jpg",
+    "title": "Tresemme Salon Silk Shampoo - 900ml",
+    "description": "Shampoo is a hair care product, typically in the form of a viscous liquid, that is used for cleaning hair.",
+    "price": 13,
+    "stock": 10,
+    "rating": 5,
+    "made": "UK"
+  },
+  {
+    "id": 8,
+    "category": "shampoo",
+    "img": "https://i.ibb.co/WDGn743/tresemme.jpg",
+    "title": "Tresemme Salon Silk Shampoo - 900ml",
+    "description": "Shampoo is a hair care product, typically in the form of a viscous liquid, that is used for cleaning hair.",
+    "price": 13,
+    "stock": 10,
+    "rating": 5,
+    "made": "UK"
+  },
+  {
+    "id": 9,
+    "category": "shampoo",
+    "img": "https://i.ibb.co/WDGn743/tresemme.jpg",
+    "title": "Tresemme Salon Silk Shampoo - 900ml",
+    "description": "Shampoo is a hair care product, typically in the form of a viscous liquid, that is used for cleaning hair.",
+    "price": 13,
+    "stock": 10,
+    "rating": 5,
+    "made": "UK"
+  },
+  {
+    "id": 10,
+    "category": "shampoo",
+    "img": "https://i.ibb.co/WDGn743/tresemme.jpg",
+    "title": "Tresemme Salon Silk Shampoo - 900ml",
+    "description": "Shampoo is a hair care product, typically in the form of a viscous liquid, that is used for cleaning hair.",
+    "price": 13,
+    "stock": 10,
+    "rating": 5,
+    "made": "UK"
+  }
+]

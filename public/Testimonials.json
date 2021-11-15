@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Johnsons Smith",
+    "img": "https://i.ibb.co/sbFTNDy/feedback-2.png",
+    "country": "Canada",
+    "job_type": "CEO, Uniliver",
+    "description": "Inglot Hare Care is very helpful for womens care. beacause I will purchase from company and more efficient cheap rated product.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Johnsons Smith",
+    "img": "https://i.ibb.co/sbFTNDy/feedback-2.png",
+    "country": "Canada",
+    "job_type": "CEO, Uniliver",
+    "description": "Inglot Hare Care is very helpful for womens care. beacause I will purchase from company and more efficient cheap rated product.",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Johnsons Smith",
+    "img": "https://i.ibb.co/sbFTNDy/feedback-2.png",
+    "country": "Canada",
+    "job_type": "CEO, Uniliver",
+    "description": "Inglot Hare Care is very helpful for womens care. beacause I will purchase from company and more efficient cheap rated product.",
+    "rating": 4.5
+  }
+]
